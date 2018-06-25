@@ -1,0 +1,83 @@
+#s-86d3ef64-9e7d-4ce5-8c3d-3f660baae98f > #backgroundBox {
+  background-color: transparent;
+  background-image: none;
+  position: absolute;
+}
+#s-86d3ef64-9e7d-4ce5-8c3d-3f660baae98f > #alignmentBox {
+  position: relative;
+  max-width: 1366px;
+  max-height: 768px;
+}
+#s-86d3ef64-9e7d-4ce5-8c3d-3f660baae98f #s-Image_1 {
+  position: absolute;
+  width: 4000px;
+  height: 2248px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-86d3ef64-9e7d-4ce5-8c3d-3f660baae98f #s-Image_1 > img, #s-86d3ef64-9e7d-4ce5-8c3d-3f660baae98f #s-Image_1 > svg {
+  height: 2248px;
+  width: 4000px;
+  box-shadow: none;
+}
+#s-86d3ef64-9e7d-4ce5-8c3d-3f660baae98f #s-Hotspot_1 {
+  position: absolute;
+  width: 1431px;
+  height: 212px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  cursor: pointer;
+}
+#s-86d3ef64-9e7d-4ce5-8c3d-3f660baae98f #s-Hotspot_1 > img, #s-86d3ef64-9e7d-4ce5-8c3d-3f660baae98f #s-Hotspot_1 > svg {
+  height: 212px;
+  width: 1431px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-86d3ef64-9e7d-4ce5-8c3d-3f660baae98f #s-Hotspot_2 {
+  position: absolute;
+  width: 587px;
+  height: 150px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  cursor: pointer;
+}
+#s-86d3ef64-9e7d-4ce5-8c3d-3f660baae98f #s-Hotspot_2 > img, #s-86d3ef64-9e7d-4ce5-8c3d-3f660baae98f #s-Hotspot_2 > svg {
+  height: 150px;
+  width: 587px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-86d3ef64-9e7d-4ce5-8c3d-3f660baae98f #s-Hotspot_3 {
+  position: absolute;
+  width: 156px;
+  height: 125px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  cursor: pointer;
+}
+#s-86d3ef64-9e7d-4ce5-8c3d-3f660baae98f #s-Hotspot_3 > img, #s-86d3ef64-9e7d-4ce5-8c3d-3f660baae98f #s-Hotspot_3 > svg {
+  height: 125px;
+  width: 156px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-86d3ef64-9e7d-4ce5-8c3d-3f660baae98f > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
